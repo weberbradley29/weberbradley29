@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+[markdown guide](https://www.markdownguide.org/)
+![image](https://docs.github.com/assets/cb-170327/images/help/repository/profile-with-readme.png)
 
 <!--
 **weberbradley29/weberbradley29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
