@@ -6,3 +6,5 @@ Currently a Senior Game studies and Desgin Major with a minor in Computer Scienc
 
 In the future I aspire to be a Video Game Developer with no specific place in mind currently.
 I enjoy pretty much anything computers, hardware, coding. I've even built my own PC.
+
+New to github and am currently learning how to use it effectively.
