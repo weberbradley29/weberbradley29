@@ -4,5 +4,5 @@
 
 Currently a Senior Game studies and Desgin Major with a minor in Computer Science.
 
-In the future I aspire to be a Video Game Developer with no specfic place in mind currently.
+In the future I aspire to be a Video Game Developer with no specific place in mind currently.
 I enjoy pretty much anything computers, hardware, coding. I've even built my own PC.
